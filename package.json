@@ -1,0 +1,9 @@
+{
+    "name": "project.lib.addressableassist",
+    "displayName": "Project.Lib.AddressableAssist",
+    "version": "0.8.0",
+    "unity": "2018.3",
+    "description": "",
+    "dependencies": {
+    }
+}
