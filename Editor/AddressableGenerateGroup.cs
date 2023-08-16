@@ -1,8 +1,8 @@
+#if UNITY_EDITOR
 using UnityEditor;
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine.AddressableAssets;
 using UnityEditor.AddressableAssets;
 using UnityEditor.AddressableAssets.Settings;
 
@@ -92,3 +92,4 @@ namespace Project.Lib {
 
 	}
 }
+#endif
