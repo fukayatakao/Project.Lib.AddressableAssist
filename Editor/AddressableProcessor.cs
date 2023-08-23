@@ -105,7 +105,7 @@ namespace Project.Lib {
 		//パス修正に含めないグループ
 		static string[] ignoreList = new string[] { "built in", "effect" };
 		//addressableに含めるアセットの置き場所
-		static string addressablePath = "Assets/Ribbon/Addressable/";
+		static string addressablePath = "Assets/Application/Addressable/";
 		[MenuItem("Editor/Addressable/CorrectPath")]
 		public static void CorrectGroupPath() {
 			//AddressableAssetのグループ設定を検索
